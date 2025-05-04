@@ -92,7 +92,7 @@ function LoginPage() {
           <div className="flex justify-center mb-4">
             <span className="text-4xl">🌎</span>
           </div>
-          <h2 className="text-2xl text-center font-bold">Welcome to Countries Explorer</h2>
+          <h2 className="text-2xl text-center font-bold">Welcome to CountryScope</h2>
           <p className="text-center text-gray-500">Sign in to your account or create a new one</p>
         </div>
 

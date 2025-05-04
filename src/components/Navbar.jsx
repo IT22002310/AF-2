@@ -11,7 +11,7 @@ function Navbar() {
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link to="/" className="flex items-center gap-2 text-xl font-bold">
           <span>🌎</span>
-          <span>Countries Explorer</span>
+          <span>CountryScope</span>
         </Link>
 
         <div className="flex items-center gap-4">
